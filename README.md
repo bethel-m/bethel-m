@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a project jugo (cloud project using golang and python on aws)
+- 🌱 I’m currently learning cloud technologies and devops tools
+- 👯 I’m looking to collaborate on golang and python projects
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...i dance :dancer:
 
 <!--
 **bethel-m/bethel-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
