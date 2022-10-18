@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am Bethel, a python and golang developer
-- 🔭 I’m currently working on a project jugo (cloud project using golang and python on aws)
-- 🌱 I’m currently learning cloud technologies and devops tools
+- 🔭 I’m currently working on a project "jugo" (cloud project using golang and python on aws)
+- 🌱 I’m currently learning and on route to DevOps
 - 👯 I’m looking to collaborate on golang and python projects
-- solving global and big problems is great, but i believe solving the little problems around you also counts...don't neglet them
+- solving global and big problems are great, but i believe solving the little problems around you also counts...don't neglect them
 
 ⚡ cool off-- i am a dancer 💃..i think its the best way to get in high spirits
 
