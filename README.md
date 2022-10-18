@@ -8,10 +8,9 @@
 
 ### 📫 How to reach me:
 -[@BethelMmadu](https://twitter.com/BethelMmadu)
-- bethelcletus87@gmail.com
+-bethelcletus87@gmail.com
 
-
-- ⚡ Fun fact: ...i dance :dancer:
+⚡ Fun fact: ...i dance :dancer:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m&count_private=true)
