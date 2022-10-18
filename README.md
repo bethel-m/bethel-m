@@ -8,6 +8,7 @@
 
 - 📫 How to reach me:
 [@BethelMmadu](https://twitter.com/BethelMmadu)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m&count_private=true)
 
 - ⚡ Fun fact: ...i dance :dancer:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m)](https://github.com/bethel-m/github-readme-stats)
