@@ -11,9 +11,9 @@ I am Bethel, a python and golang developer
 - python,golang
 
 ### 📫 How to reach me:
-- [@BethelMmadu](https://twitter.com/BethelMmadu)
-- bethelcletus87@gmail.com
-
+- twitter: [@BethelMmadu](https://twitter.com/BethelMmadu)
+- email: bethelcletus87@gmail.com
+- linkedin:www.linkedin.com/in/bethel-mmadu-ab86461b8
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m&count_private=true)
