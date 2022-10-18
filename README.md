@@ -3,13 +3,11 @@
 - 🌱 I’m currently learning cloud technologies and devops tools
 - 👯 I’m looking to collaborate on golang and python projects
 
-##skills:
-- python 
-- golang
-- django
+## skills:
+- python,golang
 
 - 📫 How to reach me:
-@BethelMmadu(https://twitter.com/BethelMmadu)
+[@BethelMmadu](https://twitter.com/BethelMmadu)
 
 - ⚡ Fun fact: ...i dance :dancer:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m)](https://github.com/bethel-m/github-readme-stats)
