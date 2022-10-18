@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 -[@BethelMmadu](https://twitter.com/BethelMmadu)
--bethelcletus87@gmail.com
+- bethelcletus87@gmail.com
 
 ⚡ Fun fact: ...i dance :dancer:
 
