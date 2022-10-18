@@ -1,7 +1,9 @@
 ### Hi there 👋
+I am Bethel, a python and golang developer
 - 🔭 I’m currently working on a project jugo (cloud project using golang and python on aws)
 - 🌱 I’m currently learning cloud technologies and devops tools
 - 👯 I’m looking to collaborate on golang and python projects
+- solving global and big problems is great, but i believe solving the little problems around you also counts...don't neglet them
 
 ## skills:
 - python,golang
@@ -10,7 +12,7 @@
 - [@BethelMmadu](https://twitter.com/BethelMmadu)
 - bethelcletus87@gmail.com
 
-⚡ cool off-- i am a dancer 💃
+⚡ cool off-- i am a dancer 💃..i think its the best way to get in high spirits
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m&count_private=true)
