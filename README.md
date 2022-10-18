@@ -10,7 +10,7 @@
 - [@BethelMmadu](https://twitter.com/BethelMmadu)
 - bethelcletus87@gmail.com
 
-⚡ Fun fact: ...i dance :dancer:
+⚡ cool off-- i am a dancer 💃
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m&count_private=true)
