@@ -13,7 +13,7 @@ I am Bethel, a python and golang developer
 ### 📫 How to reach me:
 - twitter: [@BethelMmadu](https://twitter.com/BethelMmadu)
 - email: bethelcletus87@gmail.com
-- linkedin:www.linkedin.com/in/bethel-mmadu-ab86461b8
+- linkedin:www.linkedin.com/in/bethel-mmadu
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bethel-m&count_private=true)
