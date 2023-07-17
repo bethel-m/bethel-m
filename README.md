@@ -1,14 +1,15 @@
 ### Hi there 👋
 I am Bethel, 
-am a DevOps engineer
+am a Software engineer, (and yes... mobile first)
+- Am a mobile first engineer, currently using flutter and dart to develop apps
 - 🔭 i am open to learning new tools and technologies to solve problems
-- 👯 I’m looking to collaborate on golang and python projects, and contributing to open source 
+- 👯 I’m looking to collaborate on flutter and python projects, and contributing to open source 
 - solving global and big problems are great, but i believe solving the little problems around you also counts...don't neglect them
 
 ⚡ cool off-- i am a dancer 💃..i think its the best way to get in high spirits
 
 ## skills:
-- python,golang
+- dart and flutter,python,golang
 
 ### 📫 How to reach me:
 - twitter: [@BethelMmadu](https://twitter.com/BethelMmadu)
