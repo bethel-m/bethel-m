@@ -9,7 +9,17 @@ am a Software engineer, (and yes... mobile first)
 ⚡ cool off-- i am a dancer 💃..i think its the best way to get in high spirits
 
 ## skills:
-- dart and flutter,python,golang
+#### language
+- dart
+- python
+- golang
+#### frameworks
+- flutter
+- fast api
+#### tools
+- git and github
+- docker
+
 
 ### 📫 How to reach me:
 - twitter: [@BethelMmadu](https://twitter.com/BethelMmadu)
